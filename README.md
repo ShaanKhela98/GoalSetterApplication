@@ -1,9 +1,6 @@
 # GoalSetterApplication
 Goal setting application using MERN architecture (MongoDB, Express.js, React.js, Node.js) 
 
-* More details will be added in future
-
-
 Login page
 <img width="1299" alt="Screenshot 2023-01-05 at 11 48 55 AM" src="https://user-images.githubusercontent.com/39349742/210870666-902d029a-a1ce-4580-ad0f-89388dad1e60.png">
 
